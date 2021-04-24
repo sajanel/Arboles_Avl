@@ -1,0 +1,8 @@
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.csprojResolveAssemblyReference.cache
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.Form1.resources
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.Properties.Resources.resources
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.csproj.GenerateResource.Cache
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\bin\Debug\ArbolesExamen.exe
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\bin\Debug\ArbolesExamen.pdb
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.exe
+C:\Users\SAP\Documents\B_CURSOS AUTODIDACTAS\CURSO DE C#\CURSO DE C#\ESTRUCTURAS\3.Estructura de Arboles\ArbolesExamen\ArbolesExamen\obj\Debug\ArbolesExamen.pdb
